@@ -1,4 +1,15 @@
 <html>
+  <head>
+    <meta http-equiv="Refresh" content="2.5;
+    url=user.php"/>
+<style>
+body{
+ margin:0;
+ padding: 0;
+ font-family:sans-serif;
+ background-image: linear-gradient(rgba(0,0,0,5),rgba(0,0,0,0.3)),url("bg.jpg");
+ background-size: cover; 
+}
 <body>
 <center>
 <?php
